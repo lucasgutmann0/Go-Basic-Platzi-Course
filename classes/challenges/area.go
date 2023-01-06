@@ -1,4 +1,4 @@
-package third_class
+package challenges
 
 import (
 	"fmt"

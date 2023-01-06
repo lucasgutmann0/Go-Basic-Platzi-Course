@@ -1,13 +1,11 @@
 package main
 
 import (
-	"github.com/gutmanndev/go-basic-platzi-course/classes/first_class"
-	"github.com/gutmanndev/go-basic-platzi-course/classes/second_class"
-	"github.com/gutmanndev/go-basic-platzi-course/classes/third_class"
+	"github.com/gutmanndev/go-basic-platzi-course/classes"
 )
 
 func main() {
-	first_class.FirstClass()
-	second_class.SecondClass()
-	third_class.ThirdClass()
+	classes.FirstClass()
+	classes.SecondClass()
+	classes.ThirdClass()
 }

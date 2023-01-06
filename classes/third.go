@@ -1,8 +1,9 @@
-package third_class
+package classes
 
 import (
 	"fmt"
-	// "github.com/gutmanndev/go-basic-platzi-course/third"
+
+	"github.com/gutmanndev/go-basic-platzi-course/classes/challenges"
 )
 
 func ThirdClass() {
@@ -35,5 +36,5 @@ func ThirdClass() {
 
 	fmt.Println(res)
 
-	fmt.Println(CalculateArea("circle"))
+	fmt.Println(challenges.CalculateArea("circle"))
 }

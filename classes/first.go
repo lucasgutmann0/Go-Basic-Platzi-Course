@@ -1,4 +1,4 @@
-package first_class
+package classes
 
 import "fmt"
 
